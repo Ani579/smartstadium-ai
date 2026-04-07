@@ -31,7 +31,7 @@ SmartStadium AI is a premium, high-fidelity venue navigation platform designed t
 ## 📂 Project Structure
 
 - `index.html`: The full production-ready application with integrated CSS and JS.
-- `final.html`: An alternative premium mobile-first UI layout.
+
 
 ---
 *Built with ❤️ for the future of live events.*
